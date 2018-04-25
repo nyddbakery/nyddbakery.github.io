@@ -3004,10 +3004,11 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 
 .tit6 {
 	font-family: Poppins;
+    -webkit-text-stroke: 1px #6B824A;
 	font-weight: 700;
 	font-size: 50px;
 	line-height: 1.2;
-	color: #6B824A;
+	color: white;
 	text-transform: uppercase;
 	letter-spacing: 6px;
 	word-spacing: 6px;
